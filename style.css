@@ -1,0 +1,130 @@
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  .logo{
+    float: left;
+    padding: 0px;
+    margin: 0px;
+    width: 500px;
+    height: 100px;
+  }
+
+  
+  .topnav {
+    overflow: hidden;
+    float: right;
+    margin-top: 15px;
+    -webkit-text-stroke-width: medium;
+  }
+
+  .topnav a {
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    font-size: 25px;
+    margin-top: 15px;
+    text-decoration: none;
+    border-radius: 50px;
+    font-family: cursive;
+  }
+  
+  .topnav a:hover {
+    background-color: gray;
+    color: white;
+    font-family: serif;
+  }
+  
+  .topnav a.active {
+    background-color: #04AA6D;
+    color: white;
+    font-family: serif;
+  }
+
+  .top-p{
+    float: left;
+    margin-top: 200px;
+
+  }
+
+  .top-p img{
+    float: inline-end;
+    width: 200px;
+    height: 200px;
+    border-radius: 50px;
+    margin-left: 250px;
+  }
+
+  .top-p p{
+    float: right;
+    margin-left: 20px;
+    font-size: larger;
+    font-family: cursive;
+  }
+
+  .top-p strong{
+    float: left;
+    margin-right: 20px;
+    margin-left: 20px;
+    border-style: inset;
+    font-weight: bold;
+    font-size: larger;
+    font-family:cursive;
+
+}
+
+
+  .volunteer{
+    float: left;
+    margin-top: 20px;
+    margin-left: 20px;
+  }
+
+  .volunteer p{
+    font-size: larger;
+    font-family: cursive;
+
+}
+
+  .volunteer img{
+    width: 500px;
+    padding-right: 180px;
+    margin-left: 50px;
+  }
+
+.train{
+    float: left;
+    font-size: larger;
+    margin-left: 20px;
+    font-family: cursive;
+
+}
+
+.coding {
+    float: left;
+    margin-left: 20px;
+
+}
+
+.coding p{
+    font-size: xx-large;
+    font-weight: bold;
+    font-family: cursive;
+
+}
+
+.coding img{
+    margin-left: 50px;
+    padding-right: 50px;
+}
+
+
+.footer{
+    float: inline-end;
+    margin-right: 600px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    font-family: cursive;
+
+}
